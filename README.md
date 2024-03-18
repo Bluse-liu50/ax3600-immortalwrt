@@ -1,0 +1,2 @@
+# ax3600-immortalwrt
+定制的ax3600的immortalwrt快照版本，可以fork本仓库自己定制不同型号不同插件
